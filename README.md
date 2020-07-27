@@ -13,6 +13,9 @@ In all these pages you will see different kind of animations and transitions, wh
 
 All the screenshots of the pages are been attested , do check them too Thank You
 
+
+For more details please visit https://github.com/shibam-ansu-1999/Hackathon2-portfolio
+
 #
 ![pic1](https://user-images.githubusercontent.com/67412243/88575715-ede78680-d061-11ea-8863-bd26cb56df7c.png)
 #
